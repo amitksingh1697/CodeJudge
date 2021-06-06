@@ -1,0 +1,5 @@
+org\codejudge\sb\controller\AppController.class
+org\codejudge\sb\config\WebConfiguration$1.class
+org\codejudge\sb\config\WebConfiguration.class
+org\codejudge\sb\Application.class
+org\codejudge\sb\config\SwaggerConfig.class

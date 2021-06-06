@@ -1,0 +1,15 @@
+
+
+POST https://localhost:8080/onboard
+content-type :"application/json"
+
+{
+    "laneNumber": 3,
+    "players": [{
+        "name": "A"
+    }, {
+        "name": "B"
+    }]
+}
+
+###
